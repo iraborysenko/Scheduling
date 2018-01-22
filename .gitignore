@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+Code/
+Docs/
+Pics/
+
+# virtualenv
+.venv/
+venv/
+ENV/
